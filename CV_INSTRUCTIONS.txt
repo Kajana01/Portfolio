@@ -1,0 +1,11 @@
+IMPORTANT: To enable CV download functionality
+
+1. Save your CV/Resume as "resume.pdf" in the c:\Portfolio folder
+2. The file must be named exactly: resume.pdf (lowercase)
+3. Supported format: PDF (recommended for professional portfolios)
+
+Alternative: If you have a Word document (.docx), you can also use that:
+- Save it as "resume.docx" in c:\Portfolio
+- Update the link in index.html from "resume.pdf" to "resume.docx"
+
+Once you add the file, the "Download CV" button will work automatically!

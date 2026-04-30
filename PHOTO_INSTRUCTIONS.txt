@@ -1,0 +1,12 @@
+<!-- IMPORTANT: To display your photo -->
+<!-- 
+1. Save your photo as "profile.jpg" in the c:\Portfolio folder
+2. The photo should be in JPG format
+3. Make sure the filename is exactly: profile.jpg (lowercase)
+4. Refresh the browser after adding the photo
+
+If you don't have the photo yet, you can:
+- Take a professional photo
+- Save it to c:\Portfolio\profile.jpg
+- The website will automatically display it
+-->
